@@ -8,7 +8,7 @@
   "authors": "DumanBi",
   "license": "ISC",
   "keywords": "bmForm",
-  "homepage": "https://github.com/DumanBi/bm-form.git",
+  "homepage": "git://github.com/DumanBi/bm-form.git",
   "ignore": [
     "**/.*",
     "node_modules",

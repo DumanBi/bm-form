@@ -1,0 +1,19 @@
+{
+  "name": "@socfafbmform/bm-from",
+  "description": "bmForm directive",
+  "main": [
+    "index.js",
+    "template.js"
+  ],
+  "authors": "DumanBi",
+  "license": "ISC",
+  "keywords": "bmForm",
+  "homepage": "https://github.com/DumanBi/bm-form",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

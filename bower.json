@@ -1,5 +1,5 @@
 {
-  "name": "@socfafbmform/bm-from",
+  "name": "@socfafbmform/bm-form",
   "description": "bmForm directive",
   "main": [
     "index.js",
